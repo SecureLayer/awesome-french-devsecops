@@ -4,6 +4,4 @@
 
 ---
 
-🚩 Soutenez ce projet en y mettant simplement une étoile <iframe src="https://ghbtns.com/github-btn.html?user=securelayer&repo=awesome-french-devsecops&type=star" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
-
-
+🚩 Soutenez ce projet en y mettant simplement une étoile ⭐ - [![GH Star](https://img.shields.io/github/stars/securelayer/awesome-french-devsecops?style=social)](https://github.com/securelayer/awesome-french-devsecops)
